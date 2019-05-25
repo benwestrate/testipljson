@@ -1,62 +1,263 @@
 {
-  resultCount: 500,
-  pageSize: 12,
-  currentPage: 5,
-  nextPage: 6,
-  results: [
-    {
-      localizedGrossBuildingArea: {
-        localRepresentation: {
-          unit: "SM",
-          value: 2000.53
-        },
-        defaultRepresentation: {
-          unit: "SF",
-          value: 6452.22
-        }
-      },
-      localizedLotSize: {
-        localRepresentation: {
-          unit: "hectares",
-          value: 1.3
-        },
-        defaultRepresentation: {
-          unit: "acres",
-          value: 2.5
-        }
-      },
-      localizedAskingPrice: {
-        localRepresentation: {
-          currency: "EUR",
-          value: 5,309,003.22
-        },
-        defaultRepresentation: {
-          currency: "USD",
-          value: 5,532,321.34
-        }
-      },
-      localizedNoi: {
-        localRepresentation: {
-          currency: "EUR",
-          value: 324,441.43
-        },
-        defaultRepresentation: {
-          currency: "USD",
-          value: 367,523.23
-        }
-      },
-      propertyName: "Name",
-      assetType: "Office",
-      country: "United States",
-      state: "Illinois",
-      city: "Chicago",
-      street: "123 Street Name",
-      zipCode: "60606",
-      yearBuilt: 2009,
-      url: "/en/property-listings/properties/abc"
-    }
-  ]
+    "resultCount": 500,
+    "pageSize": 12,
+    "currentPage": 5,
+    "nextPage": 6,
+    "results": [
+        {
+            "localizedGrossBuildingArea": {
+                "localRepresentation": {
+                    "unit": "SM",
+                    "value": 2000.53
+                },
+                "defaultRepresentation": {
+                    "unit": "SF",
+                    "value": 6452.22
+                }
+            },
+            "localizedLotSize": {
+                "localRepresentation": {
+                    "unit": "hectares",
+                    "value": 1.3
+                },
+                "defaultRepresentation": {
+                    "unit": "acres",
+                    "value": 2.5
+                }
+            },
+            "localizedAskingPrice": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "5,309,003.22"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "5,532,321.34"
+                }
+            },
+            "localizedNoi": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "324,441.43"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "367,523.23"
+                }
+            },
+            "propertyName": "Name",
+            "assetType": "Office",
+            "country": "United States",
+            "state": "Illinois",
+            "city": "Chicago",
+            "street": "123 Street Name",
+            "zipCode": "60606",
+            "yearBuilt": 2009,
+            "url": "/en/property-listings/properties/abc"
+        },
+      {
+            "localizedGrossBuildingArea": {
+                "localRepresentation": {
+                    "unit": "SM",
+                    "value": 2000.53
+                },
+                "defaultRepresentation": {
+                    "unit": "SF",
+                    "value": 6452.22
+                }
+            },
+            "localizedLotSize": {
+                "localRepresentation": {
+                    "unit": "hectares",
+                    "value": 1.3
+                },
+                "defaultRepresentation": {
+                    "unit": "acres",
+                    "value": 2.5
+                }
+            },
+            "localizedAskingPrice": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "5,309,003.22"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "5,532,321.34"
+                }
+            },
+            "localizedNoi": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "324,441.43"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "367,523.23"
+                }
+            },
+            "propertyName": "Name",
+            "assetType": "Office",
+            "country": "United States",
+            "state": "Illinois",
+            "city": "Chicago",
+            "street": "123 Street Name",
+            "zipCode": "60606",
+            "yearBuilt": 2009,
+            "url": "/en/property-listings/properties/abc"
+        },
+      {
+            "localizedGrossBuildingArea": {
+                "localRepresentation": {
+                    "unit": "SM",
+                    "value": 2000.53
+                },
+                "defaultRepresentation": {
+                    "unit": "SF",
+                    "value": 6452.22
+                }
+            },
+            "localizedLotSize": {
+                "localRepresentation": {
+                    "unit": "hectares",
+                    "value": 1.3
+                },
+                "defaultRepresentation": {
+                    "unit": "acres",
+                    "value": 2.5
+                }
+            },
+            "localizedAskingPrice": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "5,309,003.22"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "5,532,321.34"
+                }
+            },
+            "localizedNoi": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "324,441.43"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "367,523.23"
+                }
+            },
+            "propertyName": "Name",
+            "assetType": "Office",
+            "country": "United States",
+            "state": "Illinois",
+            "city": "Chicago",
+            "street": "123 Street Name",
+            "zipCode": "60606",
+            "yearBuilt": 2009,
+            "url": "/en/property-listings/properties/abc"
+        },
+      {
+            "localizedGrossBuildingArea": {
+                "localRepresentation": {
+                    "unit": "SM",
+                    "value": 2000.53
+                },
+                "defaultRepresentation": {
+                    "unit": "SF",
+                    "value": 6452.22
+                }
+            },
+            "localizedLotSize": {
+                "localRepresentation": {
+                    "unit": "hectares",
+                    "value": 1.3
+                },
+                "defaultRepresentation": {
+                    "unit": "acres",
+                    "value": 2.5
+                }
+            },
+            "localizedAskingPrice": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "5,309,003.22"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "5,532,321.34"
+                }
+            },
+            "localizedNoi": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "324,441.43"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "367,523.23"
+                }
+            },
+            "propertyName": "Name",
+            "assetType": "Office",
+            "country": "United States",
+            "state": "Illinois",
+            "city": "Chicago",
+            "street": "123 Street Name",
+            "zipCode": "60606",
+            "yearBuilt": 2009,
+            "url": "/en/property-listings/properties/abc"
+        },
+      {
+            "localizedGrossBuildingArea": {
+                "localRepresentation": {
+                    "unit": "SM",
+                    "value": 2000.53
+                },
+                "defaultRepresentation": {
+                    "unit": "SF",
+                    "value": 6452.22
+                }
+            },
+            "localizedLotSize": {
+                "localRepresentation": {
+                    "unit": "hectares",
+                    "value": 1.3
+                },
+                "defaultRepresentation": {
+                    "unit": "acres",
+                    "value": 2.5
+                }
+            },
+            "localizedAskingPrice": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "5,309,003.22"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "5,532,321.34"
+                }
+            },
+            "localizedNoi": {
+                "localRepresentation": {
+                    "currency": "EUR",
+                    "value": "324,441.43"
+                },
+                "defaultRepresentation": {
+                    "currency": "USD",
+                    "value": "367,523.23"
+                }
+            },
+            "propertyName": "Name",
+            "assetType": "Office",
+            "country": "United States",
+            "state": "Illinois",
+            "city": "Chicago",
+            "street": "123 Street Name",
+            "zipCode": "60606",
+            "yearBuilt": 2009,
+            "url": "/en/property-listings/properties/abc"
+        }
+    ]
 }
-
-
-
