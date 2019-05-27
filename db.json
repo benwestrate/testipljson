@@ -4,262 +4,3232 @@
         "pageSize": 12,
         "currentPage": 5,
         "nextPage": 6,
-        "results": [{
-                "localizedGrossBuildingArea": {
-                    "localRepresentation": {
-                        "unit": "SM",
-                        "value": 2000.53
-                    },
-                    "defaultRepresentation": {
-                        "unit": "SF",
-                        "value": 6452.22
-                    }
-                },
-                "localizedLotSize": {
-                    "localRepresentation": {
-                        "unit": "hectares",
-                        "value": 1.3
-                    },
-                    "defaultRepresentation": {
-                        "unit": "acres",
-                        "value": 2.5
-                    }
-                },
-                "localizedAskingPrice": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "5,309,003.22"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "5,532,321.34"
-                    }
-                },
-                "localizedNoi": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "324,441.43"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "367,523.23"
-                    }
-                },
-                "propertyName": "Name",
-                "assetType": "Office",
-                "country": "United States",
-                "state": "Illinois",
-                "city": "Chicago",
-                "street": "123 Street Name",
-                "zipCode": "60606",
-                "yearBuilt": 2009,
-                "url": "/en/property-listings/properties/abc"
-            },
-            {
-                "localizedGrossBuildingArea": {
-                    "localRepresentation": {
-                        "unit": "SM",
-                        "value": 2000.53
-                    },
-                    "defaultRepresentation": {
-                        "unit": "SF",
-                        "value": 6452.22
-                    }
-                },
-                "localizedLotSize": {
-                    "localRepresentation": {
-                        "unit": "hectares",
-                        "value": 1.3
-                    },
-                    "defaultRepresentation": {
-                        "unit": "acres",
-                        "value": 2.5
-                    }
-                },
-                "localizedAskingPrice": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "5,309,003.22"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "5,532,321.34"
-                    }
-                },
-                "localizedNoi": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "324,441.43"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "367,523.23"
-                    }
-                },
-                "propertyName": "Name",
-                "assetType": "Office",
-                "country": "United States",
-                "state": "Illinois",
-                "city": "Chicago",
-                "street": "123 Street Name",
-                "zipCode": "60606",
-                "yearBuilt": 2009,
-                "url": "/en/property-listings/properties/abc"
-            },
-            {
-                "localizedGrossBuildingArea": {
-                    "localRepresentation": {
-                        "unit": "SM",
-                        "value": 2000.53
-                    },
-                    "defaultRepresentation": {
-                        "unit": "SF",
-                        "value": 6452.22
-                    }
-                },
-                "localizedLotSize": {
-                    "localRepresentation": {
-                        "unit": "hectares",
-                        "value": 1.3
-                    },
-                    "defaultRepresentation": {
-                        "unit": "acres",
-                        "value": 2.5
-                    }
-                },
-                "localizedAskingPrice": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "5,309,003.22"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "5,532,321.34"
-                    }
-                },
-                "localizedNoi": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "324,441.43"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "367,523.23"
-                    }
-                },
-                "propertyName": "Name",
-                "assetType": "Office",
-                "country": "United States",
-                "state": "Illinois",
-                "city": "Chicago",
-                "street": "123 Street Name",
-                "zipCode": "60606",
-                "yearBuilt": 2009,
-                "url": "/en/property-listings/properties/abc"
-            },
-            {
-                "localizedGrossBuildingArea": {
-                    "localRepresentation": {
-                        "unit": "SM",
-                        "value": 2000.53
-                    },
-                    "defaultRepresentation": {
-                        "unit": "SF",
-                        "value": 6452.22
-                    }
-                },
-                "localizedLotSize": {
-                    "localRepresentation": {
-                        "unit": "hectares",
-                        "value": 1.3
-                    },
-                    "defaultRepresentation": {
-                        "unit": "acres",
-                        "value": 2.5
-                    }
-                },
-                "localizedAskingPrice": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "5,309,003.22"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "5,532,321.34"
-                    }
-                },
-                "localizedNoi": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "324,441.43"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "367,523.23"
-                    }
-                },
-                "propertyName": "Name",
-                "assetType": "Office",
-                "country": "United States",
-                "state": "Illinois",
-                "city": "Chicago",
-                "street": "123 Street Name",
-                "zipCode": "60606",
-                "yearBuilt": 2009,
-                "url": "/en/property-listings/properties/abc"
-            },
-            {
-                "localizedGrossBuildingArea": {
-                    "localRepresentation": {
-                        "unit": "SM",
-                        "value": 2000.53
-                    },
-                    "defaultRepresentation": {
-                        "unit": "SF",
-                        "value": 6452.22
-                    }
-                },
-                "localizedLotSize": {
-                    "localRepresentation": {
-                        "unit": "hectares",
-                        "value": 1.3
-                    },
-                    "defaultRepresentation": {
-                        "unit": "acres",
-                        "value": 2.5
-                    }
-                },
-                "localizedAskingPrice": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "5,309,003.22"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "5,532,321.34"
-                    }
-                },
-                "localizedNoi": {
-                    "localRepresentation": {
-                        "currency": "EUR",
-                        "value": "324,441.43"
-                    },
-                    "defaultRepresentation": {
-                        "currency": "USD",
-                        "value": "367,523.23"
-                    }
-                },
-                "propertyName": "Name",
-                "assetType": "Office",
-                "country": "United States",
-                "state": "Illinois",
-                "city": "Chicago",
-                "street": "123 Street Name",
-                "zipCode": "60606",
-                "yearBuilt": 2009,
-                "url": "/en/property-listings/properties/abc"
-            }
-        ]
+        "results": [
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "65810.9801"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "725934.3341"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 929
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 127
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "15,319.70"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "76,344.78"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "353,983.52"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,761.10"
+      }
+    },
+    "propertyName": "PARCOE",
+    "assetType": "Office",
+    "country": "Sweden",
+    "state": "Minnesota",
+    "city": "Marne",
+    "street": "Bragg Street",
+    "zipCode": 49488,
+    "yearBuilt": 1952,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0000f1b596852191176"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "380865.8951"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "898969.2455"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 529
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 839
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "20,625.09"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "288,656.64"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "176,971.68"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,496.41"
+      }
+    },
+    "propertyName": "PLASTO",
+    "assetType": "Office",
+    "country": "Guyana",
+    "state": "Federated States Of Micronesia",
+    "city": "Westwood",
+    "street": "Anchorage Place",
+    "zipCode": 49723,
+    "yearBuilt": 2009,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000563ca0cf1f8bb038"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "14194.8796"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "555501.933"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 468
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 704
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "139,238.44"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "93,117.28"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "44,400.95"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,198.78"
+      }
+    },
+    "propertyName": "EXOSPACE",
+    "assetType": "Office",
+    "country": "Switzerland",
+    "state": "Alaska",
+    "city": "Spokane",
+    "street": "Highland Avenue",
+    "zipCode": 21520,
+    "yearBuilt": 1906,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00011230753bcb5ae64"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "244083.5179"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "85085.8546"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 686
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 319
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "324,977.24"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "191,488.42"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "121,673.13"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,310.07"
+      }
+    },
+    "propertyName": "PROWASTE",
+    "assetType": "Office",
+    "country": "Malaysia",
+    "state": "Indiana",
+    "city": "Century",
+    "street": "Stoddard Place",
+    "zipCode": 82681,
+    "yearBuilt": 1939,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000589de6d5d7b4ce6a"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "344215.7847"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "207192.7342"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 10
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 295
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "323,229.85"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "89,131.87"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "232,017.80"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,293.68"
+      }
+    },
+    "propertyName": "DIGIAL",
+    "assetType": "Office",
+    "country": "Uruguay",
+    "state": "Virgin Islands",
+    "city": "Sexton",
+    "street": "Ingraham Street",
+    "zipCode": 65742,
+    "yearBuilt": 1979,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00037502be331ad4a55"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "576079.1513"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "205853.1228"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 325
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 681
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "197,730.35"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "92,907.56"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "231,674.60"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,575.50"
+      }
+    },
+    "propertyName": "VIRXO",
+    "assetType": "Office",
+    "country": "Iraq",
+    "state": "Michigan",
+    "city": "Ticonderoga",
+    "street": "Tompkins Avenue",
+    "zipCode": 63995,
+    "yearBuilt": 1968,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0000374eaf9cc35b3be"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "690287.1542"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "211599.4524"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 325
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 115
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "82,746.60"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "333,439.91"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "228,324.88"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,039.52"
+      }
+    },
+    "propertyName": "SLAMBDA",
+    "assetType": "Office",
+    "country": "Korea (South)",
+    "state": "Palau",
+    "city": "Belva",
+    "street": "Glendale Court",
+    "zipCode": 38132,
+    "yearBuilt": 1958,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000b81ea419434380b6"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "862560.5793"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "654367.1213"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 237
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 199
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "326,624.59"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "73,136.95"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "223,696.71"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,591.40"
+      }
+    },
+    "propertyName": "ORGANICA",
+    "assetType": "Office",
+    "country": "Mali",
+    "state": "Oregon",
+    "city": "Thatcher",
+    "street": "Coles Street",
+    "zipCode": 25623,
+    "yearBuilt": 2017,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000db04954e57010628"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "43114.0811"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "657580.2951"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 310
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 962
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "368,336.22"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "397,164.67"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "149,545.66"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,058.35"
+      }
+    },
+    "propertyName": "ZENTURY",
+    "assetType": "Office",
+    "country": "Antarctica",
+    "state": "Montana",
+    "city": "Cuylerville",
+    "street": "Allen Avenue",
+    "zipCode": 76362,
+    "yearBuilt": 1927,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000aa0159ef510c82ee"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "564512.5902"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "734194.5032"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 296
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 492
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "262,574.04"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "276,974.08"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "38,534.75"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,785.19"
+      }
+    },
+    "propertyName": "TERASCAPE",
+    "assetType": "Office",
+    "country": "New Zealand",
+    "state": "Arizona",
+    "city": "Groton",
+    "street": "Douglass Street",
+    "zipCode": 90235,
+    "yearBuilt": 1952,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00038bf6fc2bd4255e2"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "358869.5515"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "785718.8536"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 50
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 955
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "254,280.76"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "243,374.04"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "390,322.40"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,314.05"
+      }
+    },
+    "propertyName": "NORALEX",
+    "assetType": "Office",
+    "country": "Spain",
+    "state": "Oklahoma",
+    "city": "Crayne",
+    "street": "Dahill Road",
+    "zipCode": 55588,
+    "yearBuilt": 1921,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00049ffdeb25b57aae0"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "795304.6653"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "929565.0762"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 314
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 960
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "27,908.84"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "272,562.44"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "37,647.75"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,732.56"
+      }
+    },
+    "propertyName": "DUOFLEX",
+    "assetType": "Office",
+    "country": "Seychelles",
+    "state": "Connecticut",
+    "city": "Kanauga",
+    "street": "Chapel Street",
+    "zipCode": 99844,
+    "yearBuilt": 1990,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000027b77e366bd7b53"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "702767.8991"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "955393.173"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 214
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 332
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "227,520.00"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "257,345.45"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "39,929.63"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,442.76"
+      }
+    },
+    "propertyName": "TRANSLINK",
+    "assetType": "Office",
+    "country": "Saint Vincent and The Grenadines",
+    "state": "American Samoa",
+    "city": "Sharon",
+    "street": "Cheever Place",
+    "zipCode": 47789,
+    "yearBuilt": 1926,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000952f9a54f9507e3d"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "520230.9366"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "985992.0081"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 771
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 448
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "254,361.60"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "302,591.10"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "325,921.03"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,755.18"
+      }
+    },
+    "propertyName": "QUONATA",
+    "assetType": "Office",
+    "country": "Comoros",
+    "state": "Massachusetts",
+    "city": "Homeland",
+    "street": "Beaumont Street",
+    "zipCode": 57098,
+    "yearBuilt": 1949,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000157ba557fb6c4dfb"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "910434.0482"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "657908.6081"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 469
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 22
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "144,640.15"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "159,124.19"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "135,918.58"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,145.80"
+      }
+    },
+    "propertyName": "ECSTASIA",
+    "assetType": "Office",
+    "country": "Mozambique",
+    "state": "Georgia",
+    "city": "Oceola",
+    "street": "Homecrest Avenue",
+    "zipCode": 89533,
+    "yearBuilt": 1984,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00029f24f7de0a28005"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "217552.4321"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "951422.0728"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 679
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 844
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "192,749.42"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "69,558.29"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "18,593.98"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,536.02"
+      }
+    },
+    "propertyName": "OPTIQUE",
+    "assetType": "Office",
+    "country": "Micronesia",
+    "state": "Utah",
+    "city": "Sparkill",
+    "street": "Carroll Street",
+    "zipCode": 28708,
+    "yearBuilt": 1965,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000019c2046c60bd8eb"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "854694.9559"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "656504.1118"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 494
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 724
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "238,956.01"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "248,129.92"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "326,879.76"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,357.94"
+      }
+    },
+    "propertyName": "COMFIRM",
+    "assetType": "Office",
+    "country": "Nigeria",
+    "state": "New Mexico",
+    "city": "Vandiver",
+    "street": "Richardson Street",
+    "zipCode": 94087,
+    "yearBuilt": 1928,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000710f565866612433"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "474108.0639"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "679238.7383"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 153
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 788
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "112,252.90"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "235,736.68"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "154,663.61"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,812.51"
+      }
+    },
+    "propertyName": "NITRACYR",
+    "assetType": "Office",
+    "country": "Fiji",
+    "state": "Nebraska",
+    "city": "Mooresburg",
+    "street": "Brighton Court",
+    "zipCode": 47379,
+    "yearBuilt": 1961,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000a0d355922b9a7a70"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "262768.4879"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "748105.8541"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 126
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 376
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "229,792.51"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "304,469.08"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "16,091.92"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,984.33"
+      }
+    },
+    "propertyName": "LOCAZONE",
+    "assetType": "Office",
+    "country": "France, Metropolitan",
+    "state": "Alabama",
+    "city": "Nadine",
+    "street": "Bush Street",
+    "zipCode": 16539,
+    "yearBuilt": 1917,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00027cd89ab3947167a"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "698384.9496"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "47753.8078"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 924
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 294
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "383,156.41"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "302,739.99"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "44,826.53"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,947.58"
+      }
+    },
+    "propertyName": "OMNIGOG",
+    "assetType": "Office",
+    "country": "Christmas Island",
+    "state": "South Carolina",
+    "city": "Orin",
+    "street": "Hooper Street",
+    "zipCode": 10491,
+    "yearBuilt": 1907,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00049e8ff6884a923c1"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "332701.2051"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "612515.9792"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 777
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 257
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "235,086.07"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "90,882.55"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "56,319.53"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,853.95"
+      }
+    },
+    "propertyName": "TECHADE",
+    "assetType": "Office",
+    "country": "Laos",
+    "state": "Delaware",
+    "city": "Delshire",
+    "street": "Oceanview Avenue",
+    "zipCode": 32049,
+    "yearBuilt": 1905,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000bd55c1347ef8f33c"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "876120.3641"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "523587.0196"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 904
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 480
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "89,903.90"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "60,940.60"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "227,791.80"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,805.64"
+      }
+    },
+    "propertyName": "COMTEST",
+    "assetType": "Office",
+    "country": "East Timor",
+    "state": "Kansas",
+    "city": "Idledale",
+    "street": "Beadel Street",
+    "zipCode": 41708,
+    "yearBuilt": 1931,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000a755dff453d686f6"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "313643.9532"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "765699.2329"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 174
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 797
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "102,396.08"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "70,504.56"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "169,703.54"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,688.82"
+      }
+    },
+    "propertyName": "EXODOC",
+    "assetType": "Office",
+    "country": "Kazakhstan",
+    "state": "Northern Mariana Islands",
+    "city": "Boonville",
+    "street": "Senator Street",
+    "zipCode": 96109,
+    "yearBuilt": 1969,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0002922f8bd2a12dade"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "467066.141"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "872542.5733"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 44
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 325
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "109,829.32"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "154,063.20"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "397,667.16"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,906.69"
+      }
+    },
+    "propertyName": "SKYPLEX",
+    "assetType": "Office",
+    "country": "Svalbard and Jan Mayen Islands",
+    "state": "Louisiana",
+    "city": "Gibbsville",
+    "street": "Pilling Street",
+    "zipCode": 34535,
+    "yearBuilt": 1952,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00071d5cfbfa3bee2ca"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "230843.8535"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "173589.314"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 51
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 439
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "370,477.14"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "139,400.98"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "91,397.20"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,772.15"
+      }
+    },
+    "propertyName": "CODACT",
+    "assetType": "Office",
+    "country": "Taiwan",
+    "state": "Texas",
+    "city": "Frizzleburg",
+    "street": "Irving Avenue",
+    "zipCode": 76305,
+    "yearBuilt": 2008,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000ef0eff5bc1a6caf6"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "981936.4158"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "270928.3916"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 703
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 702
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "150,634.04"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "174,368.01"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "171,366.31"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,842.51"
+      }
+    },
+    "propertyName": "MANTRIX",
+    "assetType": "Office",
+    "country": "Bahamas",
+    "state": "Rhode Island",
+    "city": "Juarez",
+    "street": "Apollo Street",
+    "zipCode": 66640,
+    "yearBuilt": 1916,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000e481f790b1233f88"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "737736.976"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "441022.1833"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 859
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 469
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "39,097.22"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "231,805.54"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "392,261.18"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,866.47"
+      }
+    },
+    "propertyName": "UTARIAN",
+    "assetType": "Office",
+    "country": "Nepal",
+    "state": "Hawaii",
+    "city": "Walker",
+    "street": "Monroe Place",
+    "zipCode": 16851,
+    "yearBuilt": 1974,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0005374a5c38851d16e"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "697315.2292"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "351077.5524"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 958
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 163
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "375,771.71"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "250,061.56"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "143,077.20"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,688.43"
+      }
+    },
+    "propertyName": "XYMONK",
+    "assetType": "Office",
+    "country": "Oman",
+    "state": "Guam",
+    "city": "Frierson",
+    "street": "Midwood Street",
+    "zipCode": 81791,
+    "yearBuilt": 2004,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000025ab5bc3ae6daa3"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "255980.1316"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "326926.2728"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 365
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 510
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "192,411.59"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "319,171.87"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "111,063.44"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,073.88"
+      }
+    },
+    "propertyName": "ANIVET",
+    "assetType": "Office",
+    "country": "Dominican Republic",
+    "state": "Washington",
+    "city": "Helen",
+    "street": "Rodney Street",
+    "zipCode": 70749,
+    "yearBuilt": 1959,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00003c83982374d0952"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "595631.3644"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "522402.0187"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 117
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 354
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "278,612.12"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "308,814.38"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "84,862.67"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,559.57"
+      }
+    },
+    "propertyName": "OCEANICA",
+    "assetType": "Office",
+    "country": "Virgin Islands (US)",
+    "state": "North Carolina",
+    "city": "Jessie",
+    "street": "Kingston Avenue",
+    "zipCode": 92140,
+    "yearBuilt": 1921,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0000364eb9325ecf89b"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "630508.1235"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "34752.7173"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 145
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 610
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "375,766.50"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "38,908.40"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "209,639.42"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,578.72"
+      }
+    },
+    "propertyName": "RECRISYS",
+    "assetType": "Office",
+    "country": "Croatia (Hrvatska)",
+    "state": "Colorado",
+    "city": "Celeryville",
+    "street": "Tapscott Avenue",
+    "zipCode": 81995,
+    "yearBuilt": 2004,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000b5726bb1bbed311e"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "15195.5453"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "113714.7618"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 275
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 466
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "57,379.98"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "380,206.41"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "197,946.96"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,678.36"
+      }
+    },
+    "propertyName": "APEXTRI",
+    "assetType": "Office",
+    "country": "Ireland",
+    "state": "Nevada",
+    "city": "Chamberino",
+    "street": "Mill Lane",
+    "zipCode": 87880,
+    "yearBuilt": 1938,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000a83ed0e9747cbe67"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "893004.5229"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "678306.651"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 132
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 863
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "369,112.47"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "382,899.83"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "44,033.86"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,516.23"
+      }
+    },
+    "propertyName": "RODEMCO",
+    "assetType": "Office",
+    "country": "France",
+    "state": "Iowa",
+    "city": "Abrams",
+    "street": "Thornton Street",
+    "zipCode": 60216,
+    "yearBuilt": 1918,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00033bd42804e4c6850"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "586833.3277"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "28413.2462"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 177
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 164
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "354,990.46"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "290,822.05"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "253,641.67"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,197.33"
+      }
+    },
+    "propertyName": "HARMONEY",
+    "assetType": "Office",
+    "country": "Nicaragua",
+    "state": "North Dakota",
+    "city": "Barclay",
+    "street": "Moultrie Street",
+    "zipCode": 99886,
+    "yearBuilt": 2014,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000942ec6ba479b21b1"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "63944.9182"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "691779.9515"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 667
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 983
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "304,214.03"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "10,994.46"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "222,117.37"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,424.20"
+      }
+    },
+    "propertyName": "TETRATREX",
+    "assetType": "Office",
+    "country": "Grenada",
+    "state": "New Jersey",
+    "city": "Dennard",
+    "street": "Vandalia Avenue",
+    "zipCode": 77361,
+    "yearBuilt": 2001,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000ca67684be788320f"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "295601.4676"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "752172.4158"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 260
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 490
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "333,595.15"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "251,720.44"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "39,040.41"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,185.71"
+      }
+    },
+    "propertyName": "QABOOS",
+    "assetType": "Office",
+    "country": "Zimbabwe",
+    "state": "Tennessee",
+    "city": "Hollins",
+    "street": "Vermont Street",
+    "zipCode": 10736,
+    "yearBuilt": 2013,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000618a5419c06f53ba"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "34962.8625"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "842756.1364"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 431
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 998
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "223,707.72"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "99,209.27"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "202,898.17"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,208.84"
+      }
+    },
+    "propertyName": "COMTREK",
+    "assetType": "Office",
+    "country": "Mauritania",
+    "state": "Illinois",
+    "city": "Machias",
+    "street": "Cranberry Street",
+    "zipCode": 95752,
+    "yearBuilt": 1923,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0004efae8714b4176cf"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "544002.9136"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "214018.9996"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 413
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 54
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "27,647.54"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "357,517.54"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "299,883.14"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,942.74"
+      }
+    },
+    "propertyName": "TALENDULA",
+    "assetType": "Office",
+    "country": "Belize",
+    "state": "Missouri",
+    "city": "Stouchsburg",
+    "street": "Dewitt Avenue",
+    "zipCode": 34636,
+    "yearBuilt": 1936,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000aef90400af51d563"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "563173.0819"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "530204.9257"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 331
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 661
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "313,256.42"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "103,352.50"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "53,765.62"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,624.63"
+      }
+    },
+    "propertyName": "REALMO",
+    "assetType": "Office",
+    "country": "Barbados",
+    "state": "Idaho",
+    "city": "Broadlands",
+    "street": "Arlington Place",
+    "zipCode": 75432,
+    "yearBuilt": 1950,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0004ac503e13778c426"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "84593.8037"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "262309.7096"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 887
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 709
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "268,389.60"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "242,318.09"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "178,411.28"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,822.31"
+      }
+    },
+    "propertyName": "CABLAM",
+    "assetType": "Office",
+    "country": "Lebanon",
+    "state": "District Of Columbia",
+    "city": "Herbster",
+    "street": "Calder Place",
+    "zipCode": 83980,
+    "yearBuilt": 1978,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0004de7dfa59228d573"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "189321.5994"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "414939.3471"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 711
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 429
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "83,541.12"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "195,341.58"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "311,913.79"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,305.17"
+      }
+    },
+    "propertyName": "ZIDOX",
+    "assetType": "Office",
+    "country": "Saint Lucia",
+    "state": "New Hampshire",
+    "city": "Marion",
+    "street": "Stryker Court",
+    "zipCode": 30853,
+    "yearBuilt": 1947,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00025608c771708ce93"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "158940.8066"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "969962.6298"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 859
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 894
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "181,099.23"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "392,485.26"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "353,676.53"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,963.27"
+      }
+    },
+    "propertyName": "ZANITY",
+    "assetType": "Office",
+    "country": "Indonesia",
+    "state": "Puerto Rico",
+    "city": "Kula",
+    "street": "Gem Street",
+    "zipCode": 71398,
+    "yearBuilt": 1991,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0006e617d04ace33b3b"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "215706.4428"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "285442.9678"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 715
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 983
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "351,051.27"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "260,683.66"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "152,860.32"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,857.00"
+      }
+    },
+    "propertyName": "VIAGREAT",
+    "assetType": "Office",
+    "country": "Libya",
+    "state": "Virginia",
+    "city": "Yukon",
+    "street": "Ashland Place",
+    "zipCode": 54716,
+    "yearBuilt": 1990,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000238dc38bd36270b0"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "591402.1142"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "183005.3023"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 122
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 311
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "247,322.23"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "291,316.10"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "282,058.88"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,633.95"
+      }
+    },
+    "propertyName": "PLASMOS",
+    "assetType": "Office",
+    "country": "Jamaica",
+    "state": "South Dakota",
+    "city": "Veyo",
+    "street": "Joval Court",
+    "zipCode": 41652,
+    "yearBuilt": 1937,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000f7bc1ddb52ed24df"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "718759.2233"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "872807.3043"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 869
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 497
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "196,469.35"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "342,827.54"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "87,472.52"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,811.24"
+      }
+    },
+    "propertyName": "EXOTERIC",
+    "assetType": "Office",
+    "country": "Chad",
+    "state": "Mississippi",
+    "city": "Bluffview",
+    "street": "Ryder Street",
+    "zipCode": 55321,
+    "yearBuilt": 1923,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000377cba3f5ab97c7d"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "508617.0258"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "256884.9376"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 495
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 898
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "343,464.96"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "33,625.36"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "352,420.86"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,453.87"
+      }
+    },
+    "propertyName": "ZILLANET",
+    "assetType": "Office",
+    "country": "Austria",
+    "state": "New York",
+    "city": "Salvo",
+    "street": "Brigham Street",
+    "zipCode": 53920,
+    "yearBuilt": 1950,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000d977a08506194134"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "991808.6317"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "389522.6077"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 72
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 865
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "117,697.03"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "235,670.56"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "31,436.59"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,387.65"
+      }
+    },
+    "propertyName": "SLUMBERIA",
+    "assetType": "Office",
+    "country": "Guatemala",
+    "state": "Wisconsin",
+    "city": "Disautel",
+    "street": "Ovington Court",
+    "zipCode": 57323,
+    "yearBuilt": 1989,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0000711eb8f1284ed6d"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "375728.8019"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "612080.9485"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 85
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 25
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "51,375.90"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "364,267.33"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "284,018.29"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,575.33"
+      }
+    },
+    "propertyName": "SKYBOLD",
+    "assetType": "Office",
+    "country": "South Africa",
+    "state": "Marshall Islands",
+    "city": "Olney",
+    "street": "Amherst Street",
+    "zipCode": 20508,
+    "yearBuilt": 2005,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000c2a6a62312925316"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "248827.6274"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "689058.0087"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 678
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 716
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "63,021.23"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "352,235.15"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "51,233.57"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,773.07"
+      }
+    },
+    "propertyName": "NIXELT",
+    "assetType": "Office",
+    "country": "Bermuda",
+    "state": "West Virginia",
+    "city": "Northridge",
+    "street": "Leonora Court",
+    "zipCode": 12540,
+    "yearBuilt": 1971,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000f47b73c83061ccf1"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "921505.3035"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "195494.7159"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 851
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 311
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "320,791.26"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "381,780.24"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "235,049.56"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,772.61"
+      }
+    },
+    "propertyName": "SECURIA",
+    "assetType": "Office",
+    "country": "Thailand",
+    "state": "Wyoming",
+    "city": "Bergoo",
+    "street": "Highland Place",
+    "zipCode": 32432,
+    "yearBuilt": 1948,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000e6c9bb7e9dffd8ec"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "931275.2107"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "921300.5663"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 269
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 349
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "262,054.54"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "186,967.63"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "100,136.35"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "1,016.62"
+      }
+    },
+    "propertyName": "SUREMAX",
+    "assetType": "Office",
+    "country": "Armenia",
+    "state": "Vermont",
+    "city": "Zeba",
+    "street": "Greenwood Avenue",
+    "zipCode": 10516,
+    "yearBuilt": 2018,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0003a3c48478fd9a635"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "372740.8147"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "48136.2055"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 663
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 4
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "56,873.33"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "131,185.05"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "386,080.77"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,962.16"
+      }
+    },
+    "propertyName": "BUZZNESS",
+    "assetType": "Office",
+    "country": "Bulgaria",
+    "state": "Maryland",
+    "city": "Garberville",
+    "street": "Elm Place",
+    "zipCode": 79750,
+    "yearBuilt": 1981,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0008a34422bc63bbdc4"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "745162.3753"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "994826.7717"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 869
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 374
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "217,047.75"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "285,138.56"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "256,709.17"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,377.34"
+      }
+    },
+    "propertyName": "WARETEL",
+    "assetType": "Office",
+    "country": "Lesotho",
+    "state": "California",
+    "city": "Floriston",
+    "street": "Willow Street",
+    "zipCode": 49142,
+    "yearBuilt": 1956,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000f5a463764f8d7ba1"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "830849.1418"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "309330.4601"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 639
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 487
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "72,213.54"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "171,217.50"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "386,117.06"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,194.50"
+      }
+    },
+    "propertyName": "VURBO",
+    "assetType": "Office",
+    "country": "Azerbaijan",
+    "state": "Florida",
+    "city": "Emory",
+    "street": "Mill Street",
+    "zipCode": 41931,
+    "yearBuilt": 1937,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000a6eb2c69438fa465"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "248491.2319"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "848776.1491"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 296
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 828
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "16,015.24"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "319,481.00"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "286,071.95"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,662.59"
+      }
+    },
+    "propertyName": "NAXDIS",
+    "assetType": "Office",
+    "country": "Albania",
+    "state": "Pennsylvania",
+    "city": "Morriston",
+    "street": "Johnson Street",
+    "zipCode": 62715,
+    "yearBuilt": 2017,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000fd0408e47fd95aa5"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "421162.468"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "315615.6441"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 114
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 17
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "29,694.08"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "352,446.01"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "113,620.87"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,257.98"
+      }
+    },
+    "propertyName": "AQUOAVO",
+    "assetType": "Office",
+    "country": "Bhutan",
+    "state": "Arkansas",
+    "city": "Cucumber",
+    "street": "Oxford Walk",
+    "zipCode": 94190,
+    "yearBuilt": 1970,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000ea76e3e321bc1098"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "472018.7712"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "779751.0778"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 752
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 606
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "347,711.57"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "118,415.96"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "78,616.51"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,870.03"
+      }
+    },
+    "propertyName": "QUAREX",
+    "assetType": "Office",
+    "country": "Cocos (Keeling Islands)",
+    "state": "Maine",
+    "city": "Leland",
+    "street": "Aurelia Court",
+    "zipCode": 30672,
+    "yearBuilt": 1964,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0002f76b1490e03e5ad"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "918750.9883"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "961762.5652"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 473
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 465
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "357,731.78"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "344,780.30"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "273,584.06"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,203.15"
+      }
+    },
+    "propertyName": "ZILENCIO",
+    "assetType": "Office",
+    "country": "St. Pierre and Miquelon",
+    "state": "Kentucky",
+    "city": "Hiseville",
+    "street": "Narrows Avenue",
+    "zipCode": 21060,
+    "yearBuilt": 1982,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd0004cf7173ada52b35c"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "759560.6191"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "12381.6165"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 282
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 326
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "187,727.40"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "100,349.82"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "24,241.18"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,771.99"
+      }
+    },
+    "propertyName": "NEPTIDE",
+    "assetType": "Office",
+    "country": "Pitcairn",
+    "state": "Minnesota",
+    "city": "Alderpoint",
+    "street": "Aitken Place",
+    "zipCode": 55619,
+    "yearBuilt": 1988,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000c9f28e1ddde87d61"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "590316.2738"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "928734.8356"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 768
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 220
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "72,765.30"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "355,712.39"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "288,408.72"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "3,321.31"
+      }
+    },
+    "propertyName": "KRAG",
+    "assetType": "Office",
+    "country": "Ethiopia",
+    "state": "Federated States Of Micronesia",
+    "city": "Glenbrook",
+    "street": "Gunther Place",
+    "zipCode": 75273,
+    "yearBuilt": 1957,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000b8eb5bb849df8437"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "834237.6339"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "291306.4389"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 446
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 102
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "126,640.34"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "256,757.22"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "330,542.94"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,244.10"
+      }
+    },
+    "propertyName": "APPLIDEC",
+    "assetType": "Office",
+    "country": "Turks and Caicos Islands",
+    "state": "Alaska",
+    "city": "Wattsville",
+    "street": "Holt Court",
+    "zipCode": 16818,
+    "yearBuilt": 1974,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd00077632d53ccf909db"
+  },
+  {
+    "localizedGrossBuildingArea": {
+      "localRepresentation": {
+        "unit": "SM",
+        "value": "846942.0026"
+      },
+      "defaultRepresentation": {
+        "unit": "SF",
+        "value": "903128.036"
+      }
+    },
+    "localizedLotSize": {
+      "localRepresentation": {
+        "unit": "hectares",
+        "value": 502
+      },
+      "defaultRepresentation": {
+        "unit": "acres",
+        "value": 624
+      }
+    },
+    "localizedAskingPrice": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "387,701.25"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "34,545.44"
+      }
+    },
+    "localizedNoi": {
+      "localRepresentation": {
+        "currency": "EUR",
+        "value": "185,314.11"
+      },
+      "defaultRepresentation": {
+        "currency": "USD",
+        "value": "2,270.68"
+      }
+    },
+    "propertyName": "SINGAVERA",
+    "assetType": "Office",
+    "country": "Poland",
+    "state": "Indiana",
+    "city": "Gardiner",
+    "street": "Battery Avenue",
+    "zipCode": 91996,
+    "yearBuilt": 1951,
+    "url": "/en/property-listings/properties/abc",
+    "id": "5cebd000aa87538171dab5dc"
+  }
+]
     }
 
 }
